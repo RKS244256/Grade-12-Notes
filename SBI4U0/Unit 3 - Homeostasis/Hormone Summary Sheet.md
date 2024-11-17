@@ -1,0 +1,58 @@
+*Italics* means beginning
+**Bold** means end of chain
+## Growth Hormone
+
+| Hormone                        | Secreted by:             | Target Tissue                                   | Functions                                                                                                                                                                                              |
+| ------------------------------ | ------------------------ | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Human Growth Hormone (hGH)** | Anterior Pituitary Gland | Adipose (fat) tissue<br>Bone<br>Muscle<br>Liver | - Increases triglyceride breakdown in adipose tissue<br>- Increases fat and glycogen breakdown in liver (increases blood glucose)<br>- Stimulates growth of bones and muscle using collected nutrients |
+## Metabolic Hormones
+
+### Thyroid
+
+| Hormone                           | Secreted by:             | Target Tissue                | Functions                                                                                            | Notes                                                                                                                                    |
+| --------------------------------- | ------------------------ | ---------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| *Thyroid Releasing Hormone (TRH)* | Hypothalamus             | Anterior Pituitary Gland     | Stimulates the Anterior Pituitary Gland to produce TSH                                               |                                                                                                                                          |
+| Thyroid Stimulating Hormone (TSH) | Anterior Pituitary Gland | Thyroid Gland                | Stimulates Thyroid Gland to produce T4/T3                                                            |                                                                                                                                          |
+| **Thyroxine (T4)**                | Thyroid Gland            | All cells                    | Regulates metabolism & rate of oxidation                                                             |                                                                                                                                          |
+| **Triiodothyronine (T3)**         | Thyroid Gland            | All cells                    | Regulates metabolism & rate of oxidation                                                             |                                                                                                                                          |
+| **Calcitonin**                    | Thyroid Gland            | Bone<br>Kidney<br>Intestines | - Stores Ca<sup>+2</sup> in bones<br>- Reduces absorption of Ca<sup>+2</sup> in intestines & kidneys | - Antagonistic to **PTH**<br>- Separate from other thyroid hormones. Is not triggered by other hormones but surrounding chemical changes |
+### Parathyroid
+
+| Hormone                   | Secreted by:      | Target Tissue                | Functions                                                                                                                                                                               | Notes                          |
+| ------------------------- | ----------------- | ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ |
+| Parathyroid Hormone (PTH) | Parathyroid Gland | Bone<br>Kidney<br>Intestines | - Stimulates bones to release Ca<sup>+2</sup><br>- Stimulates intestines to absorb more Ca<sup>+2</sup><br>- Stimulates kidneys to reabsorb more Ca<sup>+2</sup> before excreting waste | Antagonistic to **Calcitonin** |
+## Glucose Hormones
+
+| Hormone      | Secreted by:                                              | Target Tissue                                                      | Functions                                                                                                                                        | Notes                        |
+| ------------ | --------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------- |
+| **Insulin**  | The α cells of the *Islets of Langerhams* in the Pancreas | Muscle cells<br>Liver                                              | -Makes targeted tissues permeable to glucose<br>- Causes the liver to convert & store glucose as glycogen in either the liver or adipose tissue. | Antagonistic to **Glucagon** |
+| **Glucagon** | The β cells of the *Islets of Langerhams* in the Pancreas | Liver<br>Adipose tissue (if liver is depleted of glycogen/glucose) | Causes liver to break down glycogen into tissue                                                                                                  | Antagonistic to **Insulin**  |
+
+## Stress Hormones
+
+| Hormone                              | Secreted by:             | Target Tissue                                 | Functions                                                                                                                                | Notes                                                                                                                                                                                                   |
+| ------------------------------------ | ------------------------ | --------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Epinepherine**                     | Adrenal Medulla          | Muscles<br>Heart<br>Blood Vessels<br>Liver    | - Increases breathing, heart rate, blood pressure, blood flow<br>- Dialates pupils<br>- Causes liver to break down glycogen into glucose | - Both **Epinephrine & Norepinepherine** work together and are secreted together.<br><br>- Extremely fast as signal/stimulus is from the nervous system and doesn't rely on other hormones as a signal. |
+| **Norepinephrine**                   | Adrenal Medulla          | Muscles<br>Heart<br>Blood Vessels<br>Liver    | - Increases breathing, heart rate, blood pressure, blood flow<br>- Dialates pupils<br>- Causes liver to break down glycogen into glucose | - Both **Epinephrine & Norepinepherine** work together and are secreted together.<br><br>- Extremely fast as signal/stimulus is from the nervous system and doesn't rely on other hormones as a signal. |
+| *Adrenocorticotropic Hormone (ACTH)* | Anterior Pituitary Gland | Adrenal Cortex                                | - Signals adrenal cortex of stress to release **cortisol**<br>- As such, regulates **cortisol**                                          |                                                                                                                                                                                                         |
+| **Cortisol**                         | Adrenal Cortex           | Muscle<br>Liver<br>Adipose Tissue<br>Pancreas | - Suppresses immune system  & reduces inflammation<br>- Raise blood-sugar levels by breaking down fat & muscle protein<br>               | - Longer lasting than **epinephrine** or **norepinephrine** but harmful for prolonged periods.                                                                                                          |
+
+## Sex Hormones
+
+### Male
+
+| Hormone                                      | Secreted by:                | Target Tissue               | Functions                                                                                                                       |
+| -------------------------------------------- | --------------------------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| *Gonadotropin Releasing Hormone (GnRH)*      | Hypothalamus                | Anterior Pituitary Gland    | Stimulates Anterior Pituitary Gland to store and produce gonadotropic hormones                                                  |
+| Luteinizing Hormone (LH)(Male)               | Anterior Pituitary Gland    | Interstitial cells (Testes) | Stimulates testosterone production                                                                                              |
+| **Testosterone**                             | Interstitial cells (Testes) | Sertoli cells (Testes)      | - Stimulates spermatogenesis (sperm production)<br>- Responsible for sex drive<br>- Stimulates secondary sexual characteristics |
+| **Follicle Stimulating Hormone (FSH)(Male)** | Anterior Pituitary Gland    | Sertoli cells (Testes)      | -Stimulates spermatogenesis (sperm production) in the seminiferous tubules                                                      |
+### Female
+
+| Hormone                                    | Secreted by:                     | Target Tissue                            | Functions                                                                                                    |
+| ------------------------------------------ | -------------------------------- | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| *Gonadotropin Releasing Hormone (GnRH)*    | Hypothalamus                     | Anterior Pituitary Gland                 | Stimulates Anterior Pituitary Gland to store and produce gonadotropic hormones                               |
+| Luteinizing Hormone (LH)(Female)           | Anterior Pituitary Gland         | Ovaries                                  | Stimulates follicle growth (less so than **FSH**)<br>Stimulates & promotes ovulation                         |
+| Follicle Stimulating Hormone (FSH)(Female) | Anterior Pituitary Gland         | Growing Follicles                        | Stimulates follicle growth                                                                                   |
+| **Estrogen**                               | Follicles & Corpus Luteum (some) | Hypothalamus<br>Endometrium              | - Stimulates **LH** production at midcycle<br>- Inhibits **GnRH**, **LH**, **FSH** secretion after ovulation |
+| **Progesterone**                           | Corpus Luteum                    | Hypothalamus<br>Anterior Pituitary Gland | Inhibits **GnRH**, **LH**, **FSH** secretion                                                                 |

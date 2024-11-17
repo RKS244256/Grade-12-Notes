@@ -4,17 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "2b31f66354e783b3",
+        "id": "9387060e6395025e",
         "type": "tabs",
         "children": [
           {
-            "id": "d94170cf580667fb",
+            "id": "f4ec52497c4c04f4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "SBI4U0/Unit 1 - Biochemistry/Biochemistry.canvas",
+                "viewState": {
+                  "x": 597.0778891842797,
+                  "y": 208.86997535705987,
+                  "zoom": -1.1180475544676465
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Biochemistry"
             }
           }
         ]
@@ -77,6 +84,20 @@
           "icon": "lucide-bookmark",
           "title": "Bookmarks"
         }
+      },
+      {
+        "id": "d5cae43ac2512c12",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
       }
     ],
     "currentTab": 0
@@ -109,6 +130,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "SCH4U9/SCH4U9.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -121,7 +143,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {},
+          "state": {
+            "file": "SCH4U9/SCH4U9.md"
+          },
           "icon": "lucide-list",
           "title": "Outline"
         }
@@ -131,6 +155,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -139,6 +165,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d94170cf580667fb",
-  "lastOpenFiles": []
+  "active": "f4ec52497c4c04f4",
+  "lastOpenFiles": [
+    "SBI4U0/Unit 1 - Biochemistry/Cell Membrane & Transport - Biochemistry.md",
+    "SBI4U0/Unit 1 - Biochemistry/Functional Groups - Biochemistry.md",
+    "SBI4U0/Unit 1 - Biochemistry/Enzymes - Biochemistry.md",
+    "SBI4U0/Unit 1 - Biochemistry/Macromolecules - Biochemistry.md",
+    "SBI4U0/Unit 1 - Biochemistry/Biochemistry.canvas",
+    "SBI4U0/Unit 1 - Biochemistry/Review Sheet - Biochemistry.md",
+    "SBI4U0/Unit 2 - Molecular Genetics/Protein Synthesis.md",
+    "SBI4U0/Unit 2 - Molecular Genetics/Molecular Genetics.canvas",
+    "SBI4U0/Unit 2 - Molecular Genetics/DNA & DNA Replication.md",
+    "SBI4U0/Unit 1 - Biochemistry/Chemistry Review - Biochemistry.md",
+    "SBI4U0/Unit 1 - Biochemistry",
+    "SBI4U0/Unit 2 - Molecular Genetics",
+    "SBI4U0/Unit_2_PDFs/Protein_Synthesis.pdf",
+    "SBI4U0/Images/Dipole-Dipole.png",
+    "SBI4U0/Images/Hydrogen_Bond_Water.png",
+    "SBI4U0/Images/Phosphate_Structural_Formula.png",
+    "SBI4U0/Images/Sulfhydryl_Structural_Formula.png",
+    "SBI4U0/Unit_1_PDFs/Macromolecules.pdf",
+    "SBI4U0/Unit_2_PDFs/DNA.pdf",
+    "SBI4U0/Unit_1_PDFs/Cell_Membrane_And_Transport.pdf",
+    "SBI4U0/Unit_1_PDFs/Amoeba_Sisters_Cell_Transport_Summary.pdf",
+    "SBI4U0/Images/Water_Molecule.png",
+    "SBI4U0/Unit_2_PDFs/Telomerase.pdf",
+    "SBI4U0/Images/Amino_Structural_Formula.jpg",
+    "SBI4U0/SBI4U0 Notes.md",
+    "SBI4U0/Images/Ionic_Lewis_Diagram.jpeg",
+    "SBI4U0/Unit_1_PDFs/Enzymes.pdf",
+    "SBI4U0/Unit_1_PDFs/Functional_Groups.pdf",
+    "Chemistry Review - Biochemistry.md",
+    "Chemistry review - biology.canvas",
+    "SCH4U9/SCH4U9.md",
+    "Test.canvas",
+    "2024-11-02.md",
+    "README.md",
+    "SBI4U0/Images/OH_Structural_Formula.png",
+    "SBI4U0/Images/Carboxyl_Structural_Formula.jpg"
+  ]
 }
