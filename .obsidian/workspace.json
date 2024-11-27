@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6f9d31793e5b9a20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SBI4U0/SBI4U0 Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SBI4U0 Notes"
-            }
-          },
-          {
             "id": "8157d92f7bd633a6",
             "type": "leaf",
             "state": {
@@ -97,44 +83,45 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SBI4U0/Unit 2 - Molecular Genetics/DNA & DNA Replication.md",
+                "file": "SBI4U0/Unit 3 - Homeostasis/Nervous System - Anatomy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DNA & DNA Replication"
+              "title": "Nervous System - Anatomy"
             }
           },
           {
-            "id": "2b9b33ccc07a15bd",
+            "id": "2e72fd1668fbd91f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "SBI4U0/Unit 3 - Homeostasis/Hormone Summary Sheet.md",
-                "mode": "source",
-                "source": false
+                "file": "SBI4U0/Unit 3 - Homeostasis/Homeostasis.canvas",
+                "viewState": {
+                  "x": 757.7325116216614,
+                  "y": 642.2031850302716,
+                  "zoom": -2.7196672277441243
+                }
               },
-              "icon": "lucide-file",
-              "title": "Hormone Summary Sheet"
+              "icon": "lucide-layout-dashboard",
+              "title": "Homeostasis"
             }
           },
           {
             "id": "17198aaa7bb34a69",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "SBI4U0/Unit 3 - Homeostasis/Hormone Summary Sheet.md",
-                "mode": "source",
-                "source": false
+                "file": "SBI4U0/Images/Excitatory_Synapse_Diagram.jpeg"
               },
-              "icon": "lucide-file",
-              "title": "Hormone Summary Sheet"
+              "icon": "lucide-image",
+              "title": "Excitatory_Synapse_Diagram"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -262,10 +249,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SBI4U0/Unit 3 - Homeostasis/Hormone Summary Sheet.md"
+                "file": "SBI4U0/Unit 3 - Homeostasis/Homeostasis.canvas"
               },
               "icon": "lucide-list",
-              "title": "Outline of Hormone Summary Sheet"
+              "title": "Outline of Homeostasis"
             }
           },
           {
@@ -293,11 +280,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -312,13 +300,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b2979fece3f28845",
+  "active": "2e72fd1668fbd91f",
   "lastOpenFiles": [
-    "SBI4U0/Unit 2 - Molecular Genetics/Molecular Genetics.canvas",
+    "SBI4U0/Unit 3 - Homeostasis/Nervous System - Anatomy.md",
+    "SBI4U0/Unit 3 - Homeostasis/Nervous System Overview.canvas",
+    "SBI4U0/Unit 3 - Homeostasis/Homeostasis.canvas",
+    "SBI4U0/Unit 3 - Homeostasis/Nervous System - Pain & Opioids.md",
     "SBI4U0/Unit 3 - Homeostasis/Hormone Summary Sheet.md",
+    "SBI4U0/Unit 3 - Homeostasis/Endocrine vs. Nervous System.md",
+    "SBI4U0/Unit 2 - Molecular Genetics/Molecular Genetics.canvas",
+    "SBI4U0/Unit 2 - Molecular Genetics/DNA & DNA Replication.md",
+    "SBI4U0/SBI4U0 Notes.md",
+    "SBI4U0/Images/Excitatory_Synapse_Diagram.jpeg",
     "SBI4U0/Unit 3 - Homeostasis",
     "SBI4U0/Unit 1 - Biochemistry/Biochemistry.canvas",
-    "SBI4U0/Unit 2 - Molecular Genetics/DNA & DNA Replication.md",
     "SBI4U0/Unit 2 - Molecular Genetics/Protein Synthesis.md",
     "SBI4U0/Unit 1 - Biochemistry/Macromolecules - Biochemistry.md",
     "SBI4U0/Unit 1 - Biochemistry/Functional Groups - Biochemistry.md",
@@ -326,7 +321,6 @@
     "SBI4U0/Unit 1 - Biochemistry/Cell Membrane & Transport - Biochemistry.md",
     "SBI4U0/Unit 1 - Biochemistry/Enzymes - Biochemistry.md",
     "SBI4U0/Unit 1 - Biochemistry/Review Sheet - Biochemistry.md",
-    "SBI4U0/SBI4U0 Notes.md",
     "SBI4U0/Unit 2 - Molecular Genetics",
     "SBI4U0/Unit 1 - Biochemistry",
     "README.md",
@@ -348,7 +342,6 @@
     "SBI4U0/Images/Hydrogen_Bond_Water.png",
     "SBI4U0/Images/Dipole-Dipole.png",
     "SBI4U0/Images/Water_Molecule.png",
-    "SBI4U0/Images/Ionic_Lewis_Diagram.jpeg",
     "Welcome.md",
     "Law/CLU3M0 - Chapter 4 - 9.md",
     "Law/CLU3M0 - Intro Stuff.md",
@@ -357,9 +350,6 @@
     "Biology/SBI3UO.md",
     "Law/Freedom Of Expression.md",
     "Pasted.md",
-    "Science/Physics/Optics_SNC2D0.md",
-    "History/WW2/WW2_CHC2D0.md",
-    "Science/Biology/Pneumonia.md",
-    "Science/Biology/Biology_SNC2D0.md"
+    "Science/Physics/Optics_SNC2D0.md"
   ]
 }

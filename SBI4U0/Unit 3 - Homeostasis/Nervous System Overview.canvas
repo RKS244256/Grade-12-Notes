@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"af6e30ea6b98c046","type":"text","text":"Central Nervous System (CNS)","x":-335,"y":-140,"width":310,"height":60},
+		{"id":"f7b59072b6f1c0e7","type":"text","text":"The Nervous System","x":-145,"y":-280,"width":240,"height":60},
+		{"id":"839483a925a560ce","type":"text","text":"Brain","x":-335,"y":-20,"width":110,"height":50},
+		{"id":"461dcf98c12394df","type":"text","text":"Spinal Cord","x":-180,"y":-20,"width":185,"height":50},
+		{"id":"7c7faba655b82a3f","type":"text","text":"Peripheral Nervous System","x":95,"y":-135,"width":276,"height":50},
+		{"id":"1a42b66edc2890c1","type":"text","text":"Autonomic","x":40,"y":-20,"width":156,"height":50},
+		{"id":"42ea56ad164fba76","type":"text","text":"Somatic","x":244,"y":-20,"width":127,"height":50},
+		{"id":"0a262a7cc18070ec","type":"text","text":"Sympathetic","x":-47,"y":100,"width":165,"height":50},
+		{"id":"c82562ae336496e1","x":161,"y":100,"width":210,"height":56,"type":"text","text":"Parasympathetic"}
+	],
+	"edges":[
+		{"id":"86bbcdb8e4f0caae","fromNode":"f7b59072b6f1c0e7","fromSide":"bottom","toNode":"af6e30ea6b98c046","toSide":"top"},
+		{"id":"b3dff2b727ebd5c2","fromNode":"af6e30ea6b98c046","fromSide":"bottom","toNode":"839483a925a560ce","toSide":"top"},
+		{"id":"a67d1b53b9a662f1","fromNode":"af6e30ea6b98c046","fromSide":"bottom","toNode":"461dcf98c12394df","toSide":"top"},
+		{"id":"8b8c541187051234","fromNode":"f7b59072b6f1c0e7","fromSide":"bottom","toNode":"7c7faba655b82a3f","toSide":"top"},
+		{"id":"651bbf9841d00cef","fromNode":"7c7faba655b82a3f","fromSide":"bottom","toNode":"1a42b66edc2890c1","toSide":"top"},
+		{"id":"d3721ff17c28e7a4","fromNode":"7c7faba655b82a3f","fromSide":"bottom","toNode":"42ea56ad164fba76","toSide":"top"},
+		{"id":"1b902ff98055c66a","fromNode":"1a42b66edc2890c1","fromSide":"bottom","toNode":"0a262a7cc18070ec","toSide":"top"},
+		{"id":"ed91e6180cb795a2","fromNode":"1a42b66edc2890c1","fromSide":"bottom","toNode":"c82562ae336496e1","toSide":"top"}
+	]
+}

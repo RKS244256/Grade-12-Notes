@@ -11,14 +11,17 @@
             "id": "f4ec52497c4c04f4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "SBI4U0/Unit 3 - Homeostasis/Hormone Summary Sheet.md",
-                "mode": "preview",
-                "source": true
+                "file": "SBI4U0/Unit 3 - Homeostasis/Homeostasis.canvas",
+                "viewState": {
+                  "x": 165.39130434782612,
+                  "y": 222.89371980676333,
+                  "zoom": -1.4663843792790643
+                }
               },
-              "icon": "lucide-file",
-              "title": "Hormone Summary Sheet"
+              "icon": "lucide-layout-dashboard",
+              "title": "Homeostasis"
             }
           }
         ]
@@ -109,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "SBI4U0/Unit 3 - Homeostasis/Hormone Summary Sheet.md",
+            "file": "SBI4U0/Unit 3 - Homeostasis/Homeostasis.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -165,42 +168,46 @@
   },
   "active": "f4ec52497c4c04f4",
   "lastOpenFiles": [
-    "SBI4U0/Unit 1 - Biochemistry/Biochemistry.canvas",
+    "SBI4U0/Unit 3 - Homeostasis/Nervous System - Anatomy.md",
+    "SBI4U0/Unit 3 - Homeostasis/Hormone Summary Sheet.md",
+    "SBI4U0/Unit 3 - Homeostasis/Nervous System Overview.canvas",
+    "SBI4U0/Unit 3 - Homeostasis/Homeostasis.canvas",
+    "SBI4U0/Images/Motor_Neuron.png",
+    "SBI4U0/Images/Excitatory_Synapse_Diagram.jpeg",
+    "SBI4U0/Unit 2 - Molecular Genetics/Molecular Genetics.canvas",
+    "SBI4U0/Unit_2_PDFs/Protein_Synthesis.pdf",
+    "SBI4U0/Unit_1_PDFs/Macromolecules.pdf",
+    "SBI4U0/Unit_2_PDFs/DNA.pdf",
+    "SBI4U0/Unit_1_PDFs/Cell_Membrane_And_Transport.pdf",
+    "SBI4U0/Images/Excitatory Synapse Diagram.jpeg",
     "SBI4U0/Images/Amino_Structural_Formula.jpg",
     "SBI4U0/Images/Water_Molecule.png",
+    "SBI4U0/Images/Hydrogen_Bond_Water.png",
+    "SBI4U0/Images/Ionic_Lewis_Diagram.jpeg",
     "SBI4U0/Unit_1_PDFs/Amoeba_Sisters_Cell_Transport_Summary.pdf",
     "SBI4U0/Unit_2_PDFs/Telomerase.pdf",
     "SBI4U0/Unit_1_PDFs/Enzymes.pdf",
+    "SBI4U0/Unit_1_PDFs/Functional_Groups.pdf",
     "SBI4U0/Unit_1_PDFs/Biochemistry_Review_Sheet.pdf",
     "SBI4U0/Unit_1_PDFs/Bio_Chem_Pre-Review.pdf",
-    "SBI4U0/Images/Ionic_Lewis_Diagram.jpeg",
-    "SBI4U0/Unit_1_PDFs/Functional_Groups.pdf",
-    "SBI4U0/Unit 3 - Homeostasis/Hormone Summary Sheet.md",
+    "SBI4U0/Images/Dipole-Dipole.png",
+    "SBI4U0/Images/Phosphate_Structural_Formula.png",
+    "SBI4U0/Images/Sulfhydryl_Structural_Formula.png",
     "SBI4U0/Unit 1 - Biochemistry/Functional Groups - Biochemistry.md",
+    "SBI4U0/Unit 1 - Biochemistry/Biochemistry.canvas",
     "SBI4U0/Unit 1 - Biochemistry/Cell Membrane & Transport - Biochemistry.md",
     "SBI4U0/Unit 1 - Biochemistry/Enzymes - Biochemistry.md",
     "SBI4U0/Unit 1 - Biochemistry/Macromolecules - Biochemistry.md",
     "SBI4U0/Unit 1 - Biochemistry/Review Sheet - Biochemistry.md",
     "SBI4U0/Unit 2 - Molecular Genetics/Protein Synthesis.md",
-    "SBI4U0/Unit 2 - Molecular Genetics/Molecular Genetics.canvas",
     "SBI4U0/Unit 2 - Molecular Genetics/DNA & DNA Replication.md",
     "SBI4U0/Unit 1 - Biochemistry/Chemistry Review - Biochemistry.md",
-    "SBI4U0/Unit 1 - Biochemistry",
-    "SBI4U0/Unit 2 - Molecular Genetics",
-    "SBI4U0/Unit_2_PDFs/Protein_Synthesis.pdf",
-    "SBI4U0/Images/Dipole-Dipole.png",
-    "SBI4U0/Images/Hydrogen_Bond_Water.png",
-    "SBI4U0/Images/Phosphate_Structural_Formula.png",
-    "SBI4U0/Images/Sulfhydryl_Structural_Formula.png",
-    "SBI4U0/Unit_1_PDFs/Macromolecules.pdf",
     "SBI4U0/SBI4U0 Notes.md",
     "Chemistry Review - Biochemistry.md",
     "Chemistry review - biology.canvas",
     "SCH4U9/SCH4U9.md",
     "Test.canvas",
     "2024-11-02.md",
-    "README.md",
-    "SBI4U0/Images/OH_Structural_Formula.png",
-    "SBI4U0/Images/Carboxyl_Structural_Formula.jpg"
+    "README.md"
   ]
 }
