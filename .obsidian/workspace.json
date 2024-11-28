@@ -99,9 +99,9 @@
               "state": {
                 "file": "SBI4U0/Unit 3 - Homeostasis/Homeostasis.canvas",
                 "viewState": {
-                  "x": 757.7325116216614,
-                  "y": 642.2031850302716,
-                  "zoom": -2.7196672277441243
+                  "x": 2577.5600234127314,
+                  "y": 2222.9145111995845,
+                  "zoom": -1.0456828153270263
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -261,8 +261,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -300,7 +300,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2e72fd1668fbd91f",
+  "active": "036005a1a9781fb7",
   "lastOpenFiles": [
     "SBI4U0/Unit 3 - Homeostasis/Nervous System - Anatomy.md",
     "SBI4U0/Unit 3 - Homeostasis/Nervous System Overview.canvas",

@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"41464c85502ba060","type":"text","text":"**Reflex Arc**","x":-180,"y":-400,"width":250,"height":60,"color":"6"},
+		{"id":"563f3151a401cc36","type":"text","text":"Stimulus","x":-180,"y":-280,"width":250,"height":60,"color":"1"},
+		{"id":"eafb4521dc06df42","type":"text","text":"Receptor","x":-180,"y":-160,"width":250,"height":50,"color":"2"},
+		{"id":"6c4f23c794ecc41b","type":"text","text":"Sensory Neuron","x":-180,"y":-60,"width":250,"height":60,"color":"2"},
+		{"id":"b90b041e701762e6","type":"text","text":"Interneuron (spinal cord)","x":-180,"y":60,"width":250,"height":60,"color":"5"},
+		{"id":"82fd91c53116b999","type":"text","text":"Motor Neuron","x":-180,"y":180,"width":250,"height":50,"color":"2"},
+		{"id":"8e79b05a9df824c4","x":-180,"y":280,"width":250,"height":60,"color":"2","type":"text","text":"Effector"}
+	],
+	"edges":[
+		{"id":"08f793f4ec5ed172","fromNode":"563f3151a401cc36","fromSide":"bottom","toNode":"eafb4521dc06df42","toSide":"top"},
+		{"id":"593edd3ab9bf2b1c","fromNode":"eafb4521dc06df42","fromSide":"bottom","toNode":"6c4f23c794ecc41b","toSide":"top"},
+		{"id":"2ebcf75d174435e7","fromNode":"6c4f23c794ecc41b","fromSide":"bottom","toNode":"b90b041e701762e6","toSide":"top"},
+		{"id":"c328ad3773f1a0d0","fromNode":"b90b041e701762e6","fromSide":"bottom","toNode":"82fd91c53116b999","toSide":"top"},
+		{"id":"9f8391dcb099e102","fromNode":"82fd91c53116b999","fromSide":"bottom","toNode":"8e79b05a9df824c4","toSide":"top"}
+	]
+}

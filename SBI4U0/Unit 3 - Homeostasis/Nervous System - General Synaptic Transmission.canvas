@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"ab6a017b3647900a","x":-100,"y":-380,"width":250,"height":60,"type":"text","text":"General Synaptic Transmission"},
+		{"id":"d199c2caaa088c9f","x":-100,"y":-260,"width":250,"height":60,"color":"3","type":"text","text":"Impulse down the *axon* (*Action Potential*)"},
+		{"id":"4032ab6a019f31d2","x":-100,"y":-140,"width":250,"height":100,"color":"2","type":"text","text":"Neurotransmitters released from the **presynaptic neuron**"},
+		{"id":"6a7ad3a16c20e737","x":-100,"y":20,"width":250,"height":100,"color":"5","type":"text","text":"Neurotransmitters diffuse across **synaptic cleft**"},
+		{"id":"a7ec34bc5d945438","x":-100,"y":180,"width":250,"height":106,"color":"1","type":"text","text":"Depolarizes **postsynaptic neuron** & triggers *Action Potential*"}
+	],
+	"edges":[
+		{"id":"20d4b0cc9f3557c7","fromNode":"d199c2caaa088c9f","fromSide":"bottom","toNode":"4032ab6a019f31d2","toSide":"top"},
+		{"id":"76ad1a42d06be140","fromNode":"4032ab6a019f31d2","fromSide":"bottom","toNode":"6a7ad3a16c20e737","toSide":"top"},
+		{"id":"a1e1e8a6240ad507","fromNode":"6a7ad3a16c20e737","fromSide":"bottom","toNode":"a7ec34bc5d945438","toSide":"top"}
+	]
+}

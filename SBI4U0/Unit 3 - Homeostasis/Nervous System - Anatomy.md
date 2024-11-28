@@ -3,7 +3,7 @@
 
 The vertebrate nervous system is made up of the **Central Nervous System** & **Peripheral Nervous System**.
 
-![[Nervous System Overview.canvas]]
+![[Nervous System - Nervous System Overview.canvas]]
 ### Central Nervous System
 
 Made up of the *brain* & *spinal cord* (specifically the nerves). Center of integration & control.
@@ -45,7 +45,35 @@ The *brain* will then respond by sending a response message back down to the *in
 
 Nerves between the organs and *Central Nervous System*. Subdivided into the **somatic** & **autonomic** nerves.
 
+## Peripheral Nervous System
 
+Made up of *afferent & efferent neurons*. The *afferent neurons* send messages to the *central nervous system* and the *CNS* coordinates a message to send to *efferent neurons* which will send it to *effectors* to execute.
+
+It's divided into the **Somatic & Autonomic nervous systems**
+
+### Somatic Nervous System
+
+The conscious and voluntary section of the *PNS*. Carries signals to the skeletal muscles and contains 31 pairs of spinal nerves which serve different parts of the body.
+
+### Autonomic Nervous System
+
+The unconscious and involuntary section of the *PNS*. Takes information to the target cell. Carries signals to glands in the *endocrine system* & **smooth muscle**.
+
+Is further subdivided into the **Sympathetic & Parasympathetic divisions**.
+
+#### Sympathetic Division
+
+Involved in situations of high stress, activity, excitement. 
+
+Controls *fight or flight* response.
+
+Functions not important to *flight or flight* slow.
+
+#### Parasympathetic Division
+
+Involved in rest state & low stress situations.
+
+Returns functions to normal rate.
 ## Nervous Tissue
 
 ### Neurons
@@ -66,7 +94,7 @@ Also known as **association** neurons. Predominately in *brain* & *spinal cord*.
 Also known as *efferent neurons*. Relay information to **effectors** (muscles, organs, glands).
 
 ![Motor Neuron Diagram](Motor_Neuron.png)
-### Glial Cells
+### Gilial Cells
 
 Non-conducting cells. Involved with structural support & metabolism of neurons.
 
@@ -81,7 +109,7 @@ Extension of cytoplasm. Sends impulses away from the cell body toward neurons an
 
 ### Myelin Sheath
 
-Made of fatty protein. Surrounds & insulates axon. Formed by Schwann cells (Glial cells). Not all axons are myelinated.
+Made of fatty protein. Surrounds & insulates axon. Formed by Schwann cells (Glial cells). Speeds up signal transmission. Not all axons are myelinated. 
 
 ### Nodes of Ranvier
 
