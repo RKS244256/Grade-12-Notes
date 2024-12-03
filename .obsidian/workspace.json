@@ -4,124 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "a3cae3b9637cb31f",
+        "id": "ff99a15b9ee11b9a",
         "type": "tabs",
         "children": [
           {
-            "id": "8157d92f7bd633a6",
+            "id": "26da2f969d5cdb3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "SBI4U0/Unit 3 - Homeostasis/Renal System - Anatomy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Renal System - Anatomy"
             }
           },
           {
-            "id": "fce3bbde0f5c1998",
+            "id": "ca347781481f91bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SBI4U0/Unit 1 - Biochemistry/Chemistry Review - Biochemistry.md",
+                "file": "SBI4U0/Unit 3 - Homeostasis/Renal System - Urine Formation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chemistry Review - Biochemistry"
-            }
-          },
-          {
-            "id": "e3732eb4b4650f27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SBI4U0/SBI4U0 Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SBI4U0 Notes"
-            }
-          },
-          {
-            "id": "fa7665de33606b9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SBI4U0/Unit 1 - Biochemistry/Enzymes - Biochemistry.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Enzymes - Biochemistry"
-            }
-          },
-          {
-            "id": "2f4f534097b391a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SBI4U0/SBI4U0 Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SBI4U0 Notes"
-            }
-          },
-          {
-            "id": "b3a8dc0b0a7792bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SBI4U0/Unit 3 - Homeostasis/Nervous System - Anatomy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Nervous System - Anatomy"
-            }
-          },
-          {
-            "id": "2e72fd1668fbd91f",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "SBI4U0/Unit 3 - Homeostasis/Homeostasis.canvas",
-                "viewState": {
-                  "x": 2577.5600234127314,
-                  "y": 2222.9145111995845,
-                  "zoom": -1.0456828153270263
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Homeostasis"
-            }
-          },
-          {
-            "id": "17198aaa7bb34a69",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "SBI4U0/Images/Excitatory_Synapse_Diagram.jpeg"
-              },
-              "icon": "lucide-image",
-              "title": "Excitatory_Synapse_Diagram"
+              "title": "Renal System - Urine Formation"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,12 +137,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SBI4U0/SBI4U0 Notes.md",
+                "file": "SBI4U0/Unit 3 - Homeostasis/Renal System - Urine Formation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from SBI4U0 Notes"
+              "title": "Outgoing links from Renal System - Urine Formation"
             }
           },
           {
@@ -249,10 +164,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SBI4U0/Unit 3 - Homeostasis/Homeostasis.canvas"
+                "file": "SBI4U0/Unit 3 - Homeostasis/Renal System - Urine Formation.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Homeostasis"
+              "title": "Outline of Renal System - Urine Formation"
             }
           },
           {
@@ -261,8 +176,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -284,8 +199,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 406.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -300,26 +214,40 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "036005a1a9781fb7",
+  "active": "ca347781481f91bd",
   "lastOpenFiles": [
-    "SBI4U0/Unit 3 - Homeostasis/Nervous System - Anatomy.md",
-    "SBI4U0/Unit 3 - Homeostasis/Nervous System Overview.canvas",
     "SBI4U0/Unit 3 - Homeostasis/Homeostasis.canvas",
+    "SBI4U0/Unit 3 - Homeostasis/Renal System - Urine Formation.md",
+    "SBI4U0/Unit 3 - Homeostasis/Renal System - Anatomy.md",
+    "SBI4U0/Images/Urine_Formation.jpeg",
+    "SBI4U0/Unit 3 - Homeostasis/Nervous System - Pain & Opioids (Supercut).md",
+    "SBI4U0/Images/Nephron_Urine_Path.png",
+    "SBI4U0/Images/Glomerulus.png",
+    "SBI4U0/Images/Nephron_(Blood_Flow).png",
+    "SBI4U0/Images/Nephron_Anatomy.png",
+    "SBI4U0/Images/Urethra.png",
+    "SBI4U0/Images/Bladder_Relax_Clenched.png",
+    "SBI4U0/Images/Kidney_(Blood_Flow).png",
+    "SBI4U0/Images/Kidney.png",
+    "SBI4U0/Unit 3 - Homeostasis/Nervous System - General Synaptic Transmission.canvas",
+    "SBI4U0/Unit 3 - Homeostasis/Nervous System - Synapses.md",
+    "SBI4U0/Images/Excitatory_Synapse_Diagram.jpeg",
+    "SBI4U0/Unit 3 - Homeostasis/Nervous System - Anatomy.md",
+    "SBI4U0/Unit 1 - Biochemistry/Chemistry Review - Biochemistry.md",
+    "SBI4U0/Unit 1 - Biochemistry/Enzymes - Biochemistry.md",
+    "SBI4U0/Unit 3 - Homeostasis/Nervous System Overview.canvas",
     "SBI4U0/Unit 3 - Homeostasis/Nervous System - Pain & Opioids.md",
     "SBI4U0/Unit 3 - Homeostasis/Hormone Summary Sheet.md",
     "SBI4U0/Unit 3 - Homeostasis/Endocrine vs. Nervous System.md",
     "SBI4U0/Unit 2 - Molecular Genetics/Molecular Genetics.canvas",
     "SBI4U0/Unit 2 - Molecular Genetics/DNA & DNA Replication.md",
     "SBI4U0/SBI4U0 Notes.md",
-    "SBI4U0/Images/Excitatory_Synapse_Diagram.jpeg",
     "SBI4U0/Unit 3 - Homeostasis",
     "SBI4U0/Unit 1 - Biochemistry/Biochemistry.canvas",
     "SBI4U0/Unit 2 - Molecular Genetics/Protein Synthesis.md",
     "SBI4U0/Unit 1 - Biochemistry/Macromolecules - Biochemistry.md",
     "SBI4U0/Unit 1 - Biochemistry/Functional Groups - Biochemistry.md",
-    "SBI4U0/Unit 1 - Biochemistry/Chemistry Review - Biochemistry.md",
     "SBI4U0/Unit 1 - Biochemistry/Cell Membrane & Transport - Biochemistry.md",
-    "SBI4U0/Unit 1 - Biochemistry/Enzymes - Biochemistry.md",
     "SBI4U0/Unit 1 - Biochemistry/Review Sheet - Biochemistry.md",
     "SBI4U0/Unit 2 - Molecular Genetics",
     "SBI4U0/Unit 1 - Biochemistry",
@@ -332,24 +260,11 @@
     "SBI4U0/Unit_2_PDFs",
     "SBI4U0/New folder",
     "SBI4U0/Untitled.md",
-    "SBI4U0/Images/Phosphate_Structural_Formula.png",
-    "SBI4U0/Images/Sulfhydryl_Structural_Formula.png",
-    "SBI4U0/Images/Amino_Structural_Formula.jpg",
-    "SBI4U0/Images/Carboxyl_Structural_Formula.jpg",
-    "SBI4U0/Images/Pasted image 20240910211110.png",
-    "SBI4U0/Images/OH_Structural_Formula.png",
     "SCH4U9/SCH4U9.md",
-    "SBI4U0/Images/Hydrogen_Bond_Water.png",
-    "SBI4U0/Images/Dipole-Dipole.png",
-    "SBI4U0/Images/Water_Molecule.png",
     "Welcome.md",
     "Law/CLU3M0 - Chapter 4 - 9.md",
     "Law/CLU3M0 - Intro Stuff.md",
     "Physics/SPH3U0.md",
-    "Chemistry/SCH3U0.md",
-    "Biology/SBI3UO.md",
-    "Law/Freedom Of Expression.md",
-    "Pasted.md",
-    "Science/Physics/Optics_SNC2D0.md"
+    "Chemistry/SCH3U0.md"
   ]
 }

@@ -10,7 +10,10 @@
 		{"id":"ae563b4077c45f23","type":"file","file":"SBI4U0/Unit 3 - Homeostasis/Nervous System - Pain & Opioids (Detailed).md","x":2116,"y":440,"width":756,"height":862},
 		{"id":"fcfebbf3d8add3ad","type":"file","file":"SBI4U0/Unit 3 - Homeostasis/Nervous System - Reflexes.md","x":-125,"y":1680,"width":705,"height":931},
 		{"id":"d704a8d4b32f68b8","type":"file","file":"SBI4U0/Unit 3 - Homeostasis/Nervous System - Synapses.md","x":2840,"y":1400,"width":1320,"height":1380},
-		{"id":"c194f5256ed3ddd2","type":"file","file":"SBI4U0/Images/Excitatory_Synapse_Diagram.jpeg","x":4320,"y":1703,"width":595,"height":774}
+		{"id":"c194f5256ed3ddd2","type":"file","file":"SBI4U0/Images/Excitatory_Synapse_Diagram.jpeg","x":4320,"y":1703,"width":595,"height":774},
+		{"id":"c36d7d8d86f0177f","x":-1989,"y":80,"width":666,"height":440,"type":"file","file":"SBI4U0/Unit 3 - Homeostasis/Renal System - Anatomy.md"},
+		{"id":"0b6a29b955beb11d","x":-2720,"y":907,"width":911,"height":987,"type":"file","file":"SBI4U0/Unit 3 - Homeostasis/Renal System - Urine Formation.md"},
+		{"id":"b12fa5c25651d063","x":-3640,"y":1680,"width":847,"height":646,"type":"file","file":"SBI4U0/Images/Urine_Formation.jpeg"}
 	],
 	"edges":[
 		{"id":"ba53d2979a4c7755","fromNode":"c17f5aff0fb48da5","fromSide":"bottom","toNode":"26ff52fb6a6d77c0","toSide":"top"},
@@ -27,6 +30,8 @@
 		{"id":"78c1d5620ec3064f","fromNode":"4e26bdbb91cb94ea","fromSide":"right","toNode":"d704a8d4b32f68b8","toSide":"left"},
 		{"id":"d426ab341a94323c","fromNode":"1518c28d2e4113e7","fromSide":"top","toNode":"d704a8d4b32f68b8","toSide":"top"},
 		{"id":"72a492962c002a6d","fromNode":"fcfebbf3d8add3ad","fromSide":"bottom","toNode":"d704a8d4b32f68b8","toSide":"bottom"},
-		{"id":"8b64e873b39cef88","fromNode":"d704a8d4b32f68b8","fromSide":"right","toNode":"c194f5256ed3ddd2","toSide":"left"}
+		{"id":"8b64e873b39cef88","fromNode":"d704a8d4b32f68b8","fromSide":"right","toNode":"c194f5256ed3ddd2","toSide":"left"},
+		{"id":"1200c2164c12e1ff","fromNode":"c36d7d8d86f0177f","fromSide":"bottom","toNode":"0b6a29b955beb11d","toSide":"top"},
+		{"id":"59df90914062a226","fromNode":"0b6a29b955beb11d","fromSide":"left","toNode":"b12fa5c25651d063","toSide":"top"}
 	]
 }
