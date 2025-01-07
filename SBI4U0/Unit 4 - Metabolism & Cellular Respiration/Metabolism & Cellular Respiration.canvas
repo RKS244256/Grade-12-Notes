@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"71a7103327c84382","type":"file","file":"SBI4U0/Unit 4 - Metabolism & Cellular Respiration/Cellular Respiration Overview.md","x":-540,"y":0,"width":700,"height":400},
+		{"id":"b2e0f37bb42ecd02","type":"file","file":"SBI4U0/Unit 4 - Metabolism & Cellular Respiration/Anaerobic Respiration.md","x":180,"y":0,"width":960,"height":640},
+		{"id":"8c46cc9374c9fad9","type":"file","file":"SBI4U0/Unit 4 - Metabolism & Cellular Respiration/Glycolysis.md","x":-540,"y":520,"width":400,"height":440},
+		{"id":"2e03ca4c457dcd0b","type":"file","file":"SBI4U0/Unit 4 - Metabolism & Cellular Respiration/Introduction.md","x":-240,"y":-440,"width":520,"height":280},
+		{"id":"7d8090f05a61bd80","type":"file","file":"SBI4U0/Unit 4 - Metabolism & Cellular Respiration/ATP Yield, CR Regulation, Macromolecule Digestion.md","x":-1410,"y":-640,"width":660,"height":1280},
+		{"id":"0a2554afb95d372b","type":"file","file":"SBI4U0/Unit 4 - Metabolism & Cellular Respiration/Mitochondrion.md","x":-1560,"y":800,"width":730,"height":640},
+		{"id":"eab7c4a8ed6d4e38","type":"file","file":"SBI4U0/Unit 4 - Metabolism & Cellular Respiration/Pyruvate Oxidation.md","x":-540,"y":1040,"width":820,"height":600},
+		{"id":"39da34737fed904e","type":"file","file":"SBI4U0/Unit 4 - Metabolism & Cellular Respiration/Krebs Cycle.md","x":-530,"y":1760,"width":810,"height":920},
+		{"id":"2965f3242630a135","type":"file","file":"SBI4U0/Unit 4 - Metabolism & Cellular Respiration/Electron Transport Chain & Chemiosmosis.md","x":-525,"y":2760,"width":805,"height":600}
+	],
+	"edges":[
+		{"id":"18784c3109052cde","fromNode":"2e03ca4c457dcd0b","fromSide":"bottom","toNode":"71a7103327c84382","toSide":"top"},
+		{"id":"09a1eb986d07930c","fromNode":"2e03ca4c457dcd0b","fromSide":"bottom","toNode":"b2e0f37bb42ecd02","toSide":"top"},
+		{"id":"212fc136f6d0288c","fromNode":"71a7103327c84382","fromSide":"bottom","toNode":"8c46cc9374c9fad9","toSide":"top"},
+		{"id":"3f98cc2b66bdb4a0","fromNode":"0a2554afb95d372b","fromSide":"right","toNode":"eab7c4a8ed6d4e38","toSide":"left"},
+		{"id":"d2f29db19dc77f0b","fromNode":"8c46cc9374c9fad9","fromSide":"left","toNode":"0a2554afb95d372b","toSide":"top"},
+		{"id":"70d4565b13d91406","fromNode":"eab7c4a8ed6d4e38","fromSide":"bottom","toNode":"39da34737fed904e","toSide":"top"},
+		{"id":"f2a85a2f71c4c088","fromNode":"39da34737fed904e","fromSide":"bottom","toNode":"2965f3242630a135","toSide":"top"},
+		{"id":"e489592baea1f76a","fromNode":"8c46cc9374c9fad9","fromSide":"bottom","toNode":"eab7c4a8ed6d4e38","toSide":"top"},
+		{"id":"7e4a0ab043fe4500","fromNode":"71a7103327c84382","fromSide":"left","toNode":"7d8090f05a61bd80","toSide":"right"}
+	]
+}

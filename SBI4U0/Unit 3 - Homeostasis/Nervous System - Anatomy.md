@@ -35,12 +35,13 @@ The major centre of the nervous system which receives, integrates, stores, and r
 - **Cerebellum**: Involved in muscle movement & balance.
 - **Pons**: Transfers signals between the *cerebellum* and *medulla oblongata*
 - **Cerebrum**: Involved in motor activities and sensory information. Largest region of the brain and can be subdivided into lobes based on function.
+![](Brain_Diagram.png)
 
 #### Spinal Cord
 
 The incoming neurons (aka *sensory/afferent neurons*) from the *peripheral nervous system* enter an area of the spinal cord called the **dorsal root** which then connect to the *interneurons* which then send information up the spinal cord & into the *brain*.
 
-The *brain* will then respond by sending a response message back down to the *interneurons* in the spinal cord which then passes it through the **ventral** root to the *motor neurons*. The *efferent/motor neurons* will then send the message to effectors such as organs or muscles.
+The *brain* will then respond by sending a response message back down to the *interneurons* in the spinal cord which then passes it through the **ventral root** to the *motor neurons*. The *efferent/motor neurons* will then send the message to effectors such as organs or muscles.
 ### Peripheral Nervous System
 
 Nerves between the organs and *Central Nervous System*. Subdivided into the **somatic** & **autonomic** nerves.
@@ -53,7 +54,7 @@ It's divided into the **Somatic & Autonomic nervous systems**
 
 ### Somatic Nervous System
 
-The conscious and voluntary section of the *PNS*. Carries signals to the skeletal muscles and contains 31 pairs of spinal nerves which serve different parts of the body.
+The conscious and voluntary section of the *PNS*. Carries signals to the **skeletal muscles** and contains 31 pairs of spinal nerves which serve different parts of the body.
 
 ### Autonomic Nervous System
 
