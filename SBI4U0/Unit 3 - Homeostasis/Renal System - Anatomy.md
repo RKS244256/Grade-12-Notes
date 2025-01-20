@@ -89,7 +89,7 @@ It is **1.2 inches long** & transports urine in females.
 ![](Urethra.png)
 ## Urinalysis
 
-A laboratory procedure ilving the examination of a urine sample. Urine will undergo chemical changes when standing so *urinalysis* is performed within an hour of voiding. This procedure is a valuable diagnostic tool in medical applications.
+A laboratory procedure involving the examination of a urine sample. Urine will undergo chemical changes when standing so *urinalysis* is performed within an hour of voiding. This procedure is a valuable diagnostic tool in medical applications.
 
 ## Catheterization
 

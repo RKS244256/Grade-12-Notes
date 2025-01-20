@@ -65,7 +65,7 @@ Instead, a high intensity stimulus will yield a greater ***frequency of impulses
 
 ## Stages
 
-![[Action Potential Graph.png]]
+![[Action_Potential_Graph.png]]
 
 When a stimulus sends an impulse, 3 stages are triggered in the action potential and neuron firing.
 
