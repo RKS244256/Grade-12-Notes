@@ -50,6 +50,7 @@
 | **Testosterone**                             | Interstitial cells (Testes) | Sertoli cells (Testes)                   | - Stimulates spermatogenesis (sperm production)<br>- Responsible for sex drive<br>- Stimulates secondary sexual characteristics |
 | **Follicle Stimulating Hormone (FSH)(Male)** | Anterior Pituitary Gland    | Sertoli cells (Testes)                   | -Stimulates spermatogenesis (sperm production) in the seminiferous tubules                                                      |
 | **Inhibin**                                  | Sertoli Cells               | Hypothalamus<br>Anterior Pituitary Gland | Inhibits production and secretion **GnRH**, **LH**, & **FSH** to regulate sperm count                                           |
+![](Male_Reproduction_Hormones.png)
 ### Female
 
 | Hormone                                    | Secreted by:                     | Target Tissue                            | Functions                                                                                                            |
@@ -60,3 +61,6 @@
 | **Estrogen**                               | Follicles & Corpus Luteum (some) | Hypothalamus<br>Endometrium              | - Stimulates **LH** production at midcycle<br>- Inhibits **GnRH**, **LH**, **FSH** secretion after ovulation         |
 | **Progesterone**                           | Corpus Luteum                    | Hypothalamus<br>Anterior Pituitary Gland | -Inhibits **GnRH**, **LH**, **FSH** secretion<br>-Maintains the endometrial lining in second half of menstrual cycle |
 | **Human Chorionic Gonadotropin (hCG)**     | Placenta                         | Corpus Luteum                            | - Maintains the endometrial lining by having the Corpus Luteum produce **Progesterone** & **Estrogen**               |
+![](Female_Reproduction_Hormones.png)
+
+![](Menstrual_Cycle.png)

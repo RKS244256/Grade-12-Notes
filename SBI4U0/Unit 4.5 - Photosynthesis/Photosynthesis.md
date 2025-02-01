@@ -125,7 +125,7 @@ These electrons pass through another ETC via the carrier **ferredoxin**.
 
 *Ferredoxin* passes electrons to **NADP<sup>+</sup> reductase** which uses the *2 electrons* and a *proton* (created by Z Protein in the stroma) to reduce *1 NADP<sup>+</sup>* to **1 NADPH**
 
-Both **ATP** and **NADH** move to the next phase of photosynthesis
+Both **ATP** and **NADPH** move to the next phase of photosynthesis
 
 ### Cyclic Electron Flow
 
@@ -133,7 +133,7 @@ Cyclic electron flow only utilizes **photosystem I** and generates a proton grad
 
 The process only produces ATP and is a fallback when ATP is low and NADPH is high.
 
-`For example, the ATP produced by non-cyclic electron flow may not be enough to power the Calvin Cycle. ATP is produced via chemiosmsis in both cyclic and non-cyclic photophosphorylation`
+`For example, the ATP produced by non-cyclic electron flow may not be enough to power the Calvin Cycle. ATP is produced via chemiosmosis in both cyclic and non-cyclic photophosphorylation`
 
 ![](Cyclic_Photophosphorylation_Diagram.png)
 

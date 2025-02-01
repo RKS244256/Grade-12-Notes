@@ -9,7 +9,7 @@ Because of the membrane's folded shape, there are multiple copies of the ETC acr
 
 # Key Steps
 
-1. *NADH* delivers its electrons to the first protein in the chain. As they move through the protein, energy is released and used to pump *hydrogen ions* across the inner membrane into the intermembrane space. 
+1. *NADH* delivers its electrons to the first protein (**NADH Dehydrogenase**) in the chain. As they move through the protein, energy is released and used to pump *hydrogen ions* across the inner membrane into the intermembrane space. 
 2. The *electrons* move through <u>Ubiquinone</u> (along with the ones from *FADH* which skip step one.)
 3. These electrons move through <u>cytochrome bc-1</u> and <u>cytochrome oxidase</u>, both releasing energy to pump more *hydrogen ions* into the intermembrane space.
 4. At <u>cytochrome oxidase</u>, the electrons are accepted by an *oxygen molecule* to form water. If not accepted, the chain will back up and no other electrons can move through the chain.
