@@ -1,0 +1,36 @@
+# Development of International Organizations
+- The peace of Europe allowed for development of international organizations
+	- New platform for multilateral diplomacy
+	- Examples include:
+		- Telecommunication (International Telegraph Union est. 1865)
+			- Established to regulate and standardized telegraphing internationally
+			- Example of early international cooperation
+		- Mail (Universal Postal Union est. 1874)
+			- International legal framework for mail delivery
+		- Rail Lines
+		- International Red Cross est. 1863
+			- Made way for the development of the Geneva Conventions of 1864 which begin to regulate warfare.
+				- Actually codified
+				- Describes treatment of medical personnel and wounded soldiers
+					- WS must be treated
+					- MP must not be harmed
+			- Mark the beginning of international humanitarian laws which dictate how wars are fought.
+	- Addresses everyday, practical problems
+
+# Importance of the Geneva Convention
+- Mitigate the suffering created by war
+- All medical personnel and facilities are to be protected
+- Wounded soldiers must not be attacked
+	- Since they're no longer able to partake in a battle, they are no longer an enemy combatant
+- Introduction of the red cross emblem
+	- Symbolizes neutrality
+	- Anything with this emblem is to not be attacked and should be protected
+	- We now use 3 symbols
+		- Red Cross
+		- Red Crescent
+		- Red Crystal
+	- Misuse is a violation of the Geneva Conventions
+- One of the first multilateral agreement in international law
+	- Binding
+- Creates legal framework to promote international cooperation and a duty to uphold a standard during conflict
+- Geneva conventions of 1864 lay groundwork for future conventions.

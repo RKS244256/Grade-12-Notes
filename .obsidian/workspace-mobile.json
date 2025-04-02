@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SBI4U0/Unit 4 - Metabolism & Cellular Respiration/ATP Yield, CR Regulation, Macromolecule Digestion.md",
+                "file": "CLN4U0/Lecture_Notes/February 6, 2025 - The Price Tag On Life Lecture Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ATP Yield, CR Regulation, Macromolecule Digestion"
+              "title": "February 6, 2025 - The Price Tag On Life Lecture Notes"
             }
           }
         ],
@@ -51,7 +51,8 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "alphabetical",
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -124,7 +125,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "SBI4U0/Unit 3 - Homeostasis/Renal System - Urine Formation.md",
+            "file": "CLN4U0/Lecture_Notes/February 6, 2025 - The Price Tag On Life Lecture Notes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -157,7 +158,10 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "SBI4U0/Unit 3 - Homeostasis/Renal System - Urine Formation.md"
+            "file": "CLN4U0/Lecture_Notes/February 6, 2025 - The Price Tag On Life Lecture Notes.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-list",
           "title": "Outline"
@@ -169,12 +173,12 @@
         "state": {
           "type": "advanced-tables-toolbar",
           "state": {},
-          "icon": "spreadsheet",
-          "title": "Advanced Tables"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 2
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,18 +189,22 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "9edaceb751ae7fb2",
   "lastOpenFiles": [
+    "CLN4U0/Textbook_Notes/Chapter 3.md",
+    "CLN4U0/Textbook_Notes/Jurisprudence.canvas",
+    "CLN4U0/Images/Jurisprudence_Overview.png",
+    "CLN4U0/Textbook_Notes/Chapter 2.md",
+    "CLN4U0/Lecture_Notes/February 4, 2025 - The Moral Side Of Murder Lecture Notes.md",
+    "SBI4U0/Unit 4 - Metabolism & Cellular Respiration/ATP Yield, CR Regulation, Macromolecule Digestion.md",
     "SBI4U0/Unit 4 - Metabolism & Cellular Respiration/Electron Transport Chain & Chemiosmosis.md",
     "SBI4U0/Unit 3 - Homeostasis/Renal System - Urine Formation.md",
     "SBI4U0/Unit 4 - Metabolism & Cellular Respiration/Glycolysis.md",
     "SBI4U0/Unit 4 - Metabolism & Cellular Respiration/Metabolism & Cellular Respiration.canvas",
     "SBI4U0/Unit 4.5 - Photosynthesis/Photosynthesis.md",
-    "SBI4U0/Unit 4 - Metabolism & Cellular Respiration/ATP Yield, CR Regulation, Macromolecule Digestion.md",
     "SBI4U0/Unit 3 - Homeostasis/Nervous System - Pain & Opioids (Supercut).md",
     "SBI4U0/Unit 3 - Homeostasis/Nervous System - Pain & Opioids (Detailed).md",
     "SBI4U0/Unit 3 - Homeostasis/Nervous System - Reflexes.md",
@@ -235,16 +243,11 @@
     "SBI4U0/Unit 1 - Biochemistry/Macromolecules - Biochemistry.md",
     "SBI4U0/Images/Phosphate_Structural_Formula.png",
     "SBI4U0/Images/Sulfhydryl_Structural_Formula.png",
-    "SBI4U0/Images/Dipole-Dipole.png",
     "SBI4U0/Unit_1_PDFs/Phospholipid.pdf",
     "SBI4U0/Unit_1_PDFs/Amoeba_Sisters_Cell_Transport_Summary.pdf",
-    "SBI4U0/Unit 1 - Biochemistry/Cell Membrane & Transport - Biochemistry.md",
-    "SBI4U0/Unit 1 - Biochemistry/Functional Groups - Biochemistry.md",
     "SBI4U0/Unit 1 - Biochemistry/Biochemistry.canvas",
-    "SBI4U0/Unit 3 - Homeostasis/Nervous System - Pain & Opioids.md",
     "SBI4U0/Unit 3 - Homeostasis/Nervous System Overview.canvas",
     "SBI4U0/Unit 2 - Molecular Genetics/Molecular Genetics.canvas",
-    "Chemistry review - biology.canvas",
-    "Test.canvas"
+    "Chemistry review - biology.canvas"
   ]
 }

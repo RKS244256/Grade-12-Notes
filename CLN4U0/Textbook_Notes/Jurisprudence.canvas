@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"0c9fac6089fba840","type":"text","text":"# Jurisprudence","x":-240,"y":-115,"width":280,"height":75,"color":"2"},
+		{"id":"8de96ceb6a4c7dc9","type":"text","text":"Derived from the Latin words *juris* & *prudens*","x":-530,"y":0,"width":250,"height":60,"color":"5"},
+		{"id":"1da8506d189bb291","type":"text","text":"**Prudens:** To be skilled in law","x":-730,"y":113,"width":289,"height":60,"color":"5"},
+		{"id":"94cab911c954cf14","type":"text","text":"**Juris:** \"of right\"/\"of law\"","x":-365,"y":113,"width":250,"height":60,"color":"5"},
+		{"id":"4b76ebec7885d4a6","type":"text","text":"**Jurisprudence Definition:** \"The philosophy/science of law\"","x":-665,"y":220,"width":520,"height":67,"color":"5"},
+		{"id":"24f78f8d13da2df0","type":"text","text":"Ensures laws are made with deliberate and proper thought and informed by scholars and historical precedents.","x":140,"y":-165,"width":281,"height":175,"color":"6"},
+		{"id":"2b92cb1985c4c157","type":"text","text":"In summary, the broad studies of each component of the law.","x":-24,"y":340,"width":250,"height":98,"color":"1"},
+		{"id":"6a4a5a6e5a31a240","type":"text","text":"Describes all aspects of legal thought and used to study legal theories, principles, frameworks, structures, development, history, etc.","x":-40,"y":113,"width":281,"height":194,"color":"1"}
+	],
+	"edges":[
+		{"id":"dfa49e3db7abc548","fromNode":"8de96ceb6a4c7dc9","fromSide":"bottom","toNode":"1da8506d189bb291","toSide":"top"},
+		{"id":"dad2222a1a40ed3f","fromNode":"8de96ceb6a4c7dc9","fromSide":"bottom","toNode":"94cab911c954cf14","toSide":"top"},
+		{"id":"e12540a196ad50d7","fromNode":"1da8506d189bb291","fromSide":"bottom","toNode":"4b76ebec7885d4a6","toSide":"top"},
+		{"id":"7588383454008388","fromNode":"94cab911c954cf14","fromSide":"bottom","toNode":"4b76ebec7885d4a6","toSide":"top"},
+		{"id":"8bf4017fd6756d33","fromNode":"0c9fac6089fba840","fromSide":"left","toNode":"8de96ceb6a4c7dc9","toSide":"top"},
+		{"id":"20eb08e4cb468d7d","fromNode":"0c9fac6089fba840","fromSide":"right","toNode":"24f78f8d13da2df0","toSide":"left"},
+		{"id":"24c4571353a271f5","fromNode":"0c9fac6089fba840","fromSide":"bottom","toNode":"6a4a5a6e5a31a240","toSide":"top"},
+		{"id":"80116bdcbdf9dfae","fromNode":"6a4a5a6e5a31a240","fromSide":"bottom","toNode":"2b92cb1985c4c157","toSide":"top"},
+		{"id":"e1f1ba6444aa6324","fromNode":"6a4a5a6e5a31a240","fromSide":"right","toNode":"24f78f8d13da2df0","toSide":"bottom"},
+		{"id":"9341d66c8a40ce13","fromNode":"4b76ebec7885d4a6","fromSide":"right","toNode":"6a4a5a6e5a31a240","toSide":"left"}
+	]
+}
